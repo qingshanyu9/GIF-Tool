@@ -10,7 +10,7 @@
 - 将 GIF 保存为序列帧图片（PNG/JPEG）
 
 ## 🖼 界面预览
-![GIF 工具界面预览](images/screenshot.png)
+![GIF 工具界面预览](screenshot.png)
 
 ## ✨ 功能特性
 
